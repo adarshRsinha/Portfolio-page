@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-page/static/css/main.9e22be77.css",
+    "main.js": "/Portfolio-page/static/js/main.fd6c02a7.js",
+    "static/media/business-work-area.jpg": "/Portfolio-page/static/media/business-work-area.5d8a4ebc1e8cac59351a.jpg",
+    "static/media/JavaScript_Logo.png": "/Portfolio-page/static/media/JavaScript_Logo.92169892ea013a5154bd.png",
+    "static/media/css3-logo-png-transparent.png": "/Portfolio-page/static/media/css3-logo-png-transparent.9e798a6abb1f9a26cda7.png",
+    "static/media/nodejs-logo.png": "/Portfolio-page/static/media/nodejs-logo.25b3b6856b98605503e7.png",
+    "static/media/mongodb-logo.jpg": "/Portfolio-page/static/media/mongodb-logo.46d9cf1f296ed45ed408.jpg",
+    "static/media/sql-server-logo-3.png": "/Portfolio-page/static/media/sql-server-logo-3.bff587164f3d228e6322.png",
+    "index.html": "/Portfolio-page/index.html",
+    "main.9e22be77.css.map": "/Portfolio-page/static/css/main.9e22be77.css.map",
+    "main.fd6c02a7.js.map": "/Portfolio-page/static/js/main.fd6c02a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e22be77.css",
+    "static/js/main.fd6c02a7.js"
+  ]
+}
